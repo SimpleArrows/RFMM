@@ -1,1 +1,1 @@
-# RFMM
+# Red Faction: Mod Manager
