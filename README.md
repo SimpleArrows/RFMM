@@ -6,7 +6,7 @@
   <a href="https://github.com/SimpleArrows/RFMM/releases" alt="Download RFMM">
         <img src="https://img.shields.io/badge/Releases-Mod%20Manager-blueviolet.svg?style=for-the-badge&logo=GitHub" /></a>
   <a href="https://github.com/SimpleArrows/RFMM/projects/1" alt="View RFMM Progress">
-        <img src="https://img.shields.io/badge/Progress-View%20Progress-informational.svg?style=for-the-badge&logo=GitHub" /></a>
+ <img src="https://img.shields.io/badge/Progress-View%20Progress-informational.svg?style=for-the-badge&logo=GitHub" /></a>
  </p>
 
 ## Info
@@ -15,3 +15,4 @@ This is a program which will help you manage your mods for Red Faction: Re-Mars-
 
 ## Images
 
+![alt text](https://cdn.discordapp.com/attachments/551584643728670747/551585254423396383/unknown.png "Development picture")
